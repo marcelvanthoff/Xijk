@@ -1,0 +1,38 @@
+D:\Programming\Labview\02 Xijk server\trunk\Examples\FITC\FITC\FITC_ex.txt
+D:\Programming\Labview\02 Xijk server\trunk\Examples\FITC\FITC\FITC_em.txt
+492
+5
+D:\Programming\Labview\02 Xijk\examples\Filter cubes\FITC_TxRed\Chroma 62002v2 DAPI_FITC_Texas Red w_single band exc\em_61002m.txt
+D:\Programming\Labview\02 Xijk\examples\Filter cubes\FITC_TxRed\Chroma 62002v2 DAPI_FITC_Texas Red w_single band exc\dic_62002BS.txt
+
+D:\Programming\Labview\02 Xijk\examples\Filter cubes\FITC_TxRed\Chroma 62002v2 DAPI_FITC_Texas Red w_single band exc\ex_S492_18x.txt
+
+1
+1.000000
+FITC-TxRed
+575
+5
+D:\Programming\Labview\02 Xijk server\trunk\Examples\FITC\TxRed\TxRed_ex.txt
+D:\Programming\Labview\02 Xijk server\trunk\Examples\FITC\TxRed\TxRed_em.txt
+D:\Programming\Labview\02 Xijk\examples\Filter cubes\FITC_TxRed\Chroma 62002v2 DAPI_FITC_Texas Red w_single band exc\dic_62002BS.txt
+D:\Programming\Labview\02 Xijk\examples\Filter cubes\FITC_TxRed\Chroma 62002v2 DAPI_FITC_Texas Red w_single band exc\em_61002m.txt
+0
+0
+1
+D:\Programming\Labview\02 Xijk\examples\Filter cubes\FITC_TxRed\Chroma 62002v2 DAPI_FITC_Texas Red w_single band exc\ex_S572_23x.txt
+
+
+6
+
+
+
+400.000000
+700.000000
+400.000000
+700.000000
+16734569
+6618880
+16728783
+4390888
+16777226
+3

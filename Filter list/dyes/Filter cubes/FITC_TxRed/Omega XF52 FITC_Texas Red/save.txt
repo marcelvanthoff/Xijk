@@ -1,0 +1,38 @@
+D:\Programming\Labview\02 Xijk server\trunk\Examples\FITC\FITC\FITC_ex.txt
+D:\Programming\Labview\02 Xijk server\trunk\Examples\FITC\FITC\FITC_em.txt
+490
+5
+D:\Programming\Labview\02 Xijk\examples\Filter cubes\FITC_TxRed\Omega XF52 FITC_Texas Red\em_XF3056.txt
+D:\Programming\Labview\02 Xijk\examples\Filter cubes\FITC_TxRed\Omega XF52 FITC_Texas Red\dic_XF2043.txt
+
+D:\Programming\Labview\02 Xijk\examples\Filter cubes\FITC_TxRed\Omega XF52 FITC_Texas Red\ex_XF1050.txt
+
+1
+1.000000
+FITC-TxRed
+550
+5
+D:\Programming\Labview\02 Xijk server\trunk\Examples\FITC\TxRed\TxRed_ex.txt
+D:\Programming\Labview\02 Xijk server\trunk\Examples\FITC\TxRed\TxRed_em.txt
+D:\Programming\Labview\02 Xijk\examples\Filter cubes\FITC_TxRed\Omega XF52 FITC_Texas Red\dic_XF2043.txt
+D:\Programming\Labview\02 Xijk\examples\Filter cubes\FITC_TxRed\Omega XF52 FITC_Texas Red\em_XF3056.txt
+0
+0
+1
+D:\Programming\Labview\02 Xijk\examples\Filter cubes\FITC_TxRed\Omega XF52 FITC_Texas Red\ex_XF1050.txt
+
+
+6
+
+
+
+400.000000
+700.000000
+400.000000
+700.000000
+16734569
+6618880
+16728783
+4390888
+16777226
+5

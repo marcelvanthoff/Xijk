@@ -1,0 +1,38 @@
+D:\Programming\Labview\02 Xijk server\trunk\Examples\FITC\FITC\FITC_ex.txt
+D:\Programming\Labview\02 Xijk server\trunk\Examples\FITC\FITC\FITC_em.txt
+495
+5
+D:\Programming\Labview\02 Xijk\examples\Filter cubes\FITC_TxRed\Omega XF69 DAPI_FITC_Texas Red\em_XF3116.txt
+D:\Programming\Labview\02 Xijk\examples\Filter cubes\FITC_TxRed\Omega XF69 DAPI_FITC_Texas Red\dic_XF2051.txt
+
+D:\Programming\Labview\02 Xijk\examples\Filter cubes\FITC_TxRed\Omega XF69 DAPI_FITC_Texas Red\ex_XF1098.txt
+
+1
+1.000000
+FITC-TxRed
+575
+5
+D:\Programming\Labview\02 Xijk server\trunk\Examples\FITC\TxRed\TxRed_ex.txt
+D:\Programming\Labview\02 Xijk server\trunk\Examples\FITC\TxRed\TxRed_em.txt
+D:\Programming\Labview\02 Xijk\examples\Filter cubes\FITC_TxRed\Omega XF69 DAPI_FITC_Texas Red\dic_XF2051.txt
+D:\Programming\Labview\02 Xijk\examples\Filter cubes\FITC_TxRed\Omega XF69 DAPI_FITC_Texas Red\em_XF3116.txt
+0
+0
+1
+D:\Programming\Labview\02 Xijk\examples\Filter cubes\FITC_TxRed\Omega XF69 DAPI_FITC_Texas Red\ex_XF1098.txt
+
+
+6
+D:\Programming\Labview\02 Xijk\examples\Filter cubes\FITC_TxRed individual filters\excitation
+D:\Programming\Labview\02 Xijk\examples\Filter cubes\FITC_TxRed individual filters\dichroic
+D:\Programming\Labview\02 Xijk\examples\Filter cubes\FITC_TxRed individual filters\emission
+400.000000
+700.000000
+400.000000
+700.000000
+16734569
+6618880
+16728783
+4390888
+16777226
+5

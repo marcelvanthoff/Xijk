@@ -1,0 +1,23 @@
+Example:	CFP
+Absorption:	CFP_abs.txt
+Emission:	CFP_emi.txt
+f_Excitation:	D440_20x.txt
+Dichroic:	460DCLP.txt
+f_Emission:	HQ500_40m.txt
+Laser:	440
+Broadness:	5
+Detector:	1
+Molar_excti:	1
+Quantum_y:	1
+Absorption2:	
+Emission:	
+f_Excitation:	
+Dichroic:	
+f_Emission:	
+Template:	1
+Laser2:	510
+Broadness2:	5
+Molar_excti:	1
+Quantum_y:	1
+ext_Emission1:	
+ext_Emission2:	

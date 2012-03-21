@@ -1,0 +1,45 @@
+--------------------------------------------------
+
+Xijk results
+
+- Project -
+FITC-TxRed
+
+--------------------------------------------------
+
+Created on: 16/12/2009 21:12:27
+Eijk results:
+
+Fluorophore abs 1:		FITC_ex
+Fluorophore em 1:		FITC_em
+Excitation light 1:		
+Excitation filter 1:	ex_69002x
+Dichroic filter 1:		dic_69002bs
+Emission filter 1:		em_69002m
+Extra Em filter 1:		
+Fluorophore abs 2:		TxRed_ex
+Fluorophore em 2:		TxRed_em
+Excitation light 2:		
+Excitation filter 2:	ex_69002x
+Dichroic filter 2:		dic_69002bs
+Emission filter 2:		em_69002m
+Extra Em filter 2:		
+Detector:				
+
+X111
+X112		|	X121		|	X211
+				X122		|	X212		|	X211
+												X222	
+0.980617
+0.980617	|	0.019383	|	0.001868
+				0.019383	|	0.001868	|	0.998132
+												0.998132
+
+E111
+E112		|	E121		|	E211
+				E122		|	E212		|	E211
+												E222	
+22.157895
+22.157895	|	0.437975	|	0.027843
+				0.437975	|	0.027843	|	14.880057
+												14.880057

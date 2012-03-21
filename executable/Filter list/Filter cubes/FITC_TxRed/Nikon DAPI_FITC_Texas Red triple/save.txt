@@ -1,0 +1,38 @@
+D:\Programming\Labview\02 Xijk server\trunk\Examples\FITC\FITC\FITC_ex.txt
+D:\Programming\Labview\02 Xijk server\trunk\Examples\FITC\FITC\FITC_em.txt
+495
+5
+D:\Programming\Labview\02 Xijk\examples\Filter cubes\FITC_TxRed\Nikon DAPI_FITC_Texas Red triple\em_450-470_515-454_600-650.txt
+D:\Programming\Labview\02 Xijk\examples\Filter cubes\FITC_TxRed\Nikon DAPI_FITC_Texas Red triple\dic_445-480_510-555_560-580.txt
+
+D:\Programming\Labview\02 Xijk\examples\Filter cubes\FITC_TxRed\Nikon DAPI_FITC_Texas Red triple\ex_395-410_490-505_560-580.txt
+
+1
+1.000000
+FITC-TxRed
+575
+5
+D:\Programming\Labview\02 Xijk server\trunk\Examples\FITC\TxRed\TxRed_ex.txt
+D:\Programming\Labview\02 Xijk server\trunk\Examples\FITC\TxRed\TxRed_em.txt
+D:\Programming\Labview\02 Xijk\examples\Filter cubes\FITC_TxRed\Nikon DAPI_FITC_Texas Red triple\dic_445-480_510-555_560-580.txt
+D:\Programming\Labview\02 Xijk\examples\Filter cubes\FITC_TxRed\Nikon DAPI_FITC_Texas Red triple\em_450-470_515-454_600-650.txt
+0
+0
+1
+D:\Programming\Labview\02 Xijk\examples\Filter cubes\FITC_TxRed\Nikon DAPI_FITC_Texas Red triple\ex_395-410_490-505_560-580.txt
+
+
+6
+
+
+
+400.000000
+700.000000
+400.000000
+700.000000
+16734569
+6618880
+16728783
+4390888
+16777226
+5
