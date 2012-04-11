@@ -48,7 +48,7 @@
 			<Item Name="xijk_load_vendor_removal_lines.vi" Type="VI" URL="../subVI/xijk_load_vendor_removal_lines.vi"/>
 			<Item Name="xijk_make_laser.vi" Type="VI" URL="../subVI/xijk_make_laser.vi"/>
 			<Item Name="xijk_norm.vi" Type="VI" URL="../subVI/xijk_norm.vi"/>
-			<Item Name="xijk_percentage_slider.vi" Type="VI" URL="../../../revised version/subVI/xijk_percentage_slider.vi"/>
+			<Item Name="xijk_percentage_slider.vi" Type="VI" URL="../subVI/xijk_percentage_slider.vi"/>
 			<Item Name="xijk_remove_cluster_filenames.vi" Type="VI" URL="../subVI/xijk_remove_cluster_filenames.vi"/>
 			<Item Name="xijk_remove_filenames.vi" Type="VI" URL="../subVI/xijk_remove_filenames.vi"/>
 			<Item Name="xijk_save_search_xijk_to_file.vi" Type="VI" URL="../subVI/xijk_save_search_xijk_to_file.vi"/>
@@ -72,13 +72,13 @@
 			<Item Name="xijk_cluster.ctl" Type="VI" URL="../Type Def/xijk_cluster.ctl"/>
 			<Item Name="spectrum_table_control.ctl" Type="VI" URL="../Type Def/spectrum_table_control.ctl"/>
 			<Item Name="axis_parameters.ctl" Type="VI" URL="../Type Def/axis_parameters.ctl"/>
-			<Item Name="color_parameters.ctl" Type="VI" URL="../../../revised version/Type Def/color_parameters.ctl"/>
-			<Item Name="save_cluster.ctl" Type="VI" URL="../../../revised version/Type Def/save_cluster.ctl"/>
+			<Item Name="color_parameters.ctl" Type="VI" URL="../Type Def/color_parameters.ctl"/>
+			<Item Name="save_cluster.ctl" Type="VI" URL="../Type Def/save_cluster.ctl"/>
 		</Item>
 		<Item Name="run-time menus" Type="Folder">
 			<Item Name="run-time_menu.rtm" Type="Document" URL="../run-time_menu.rtm"/>
 		</Item>
-		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
+		<Item Name="Xijk.vi" Type="VI" URL="../Xijk.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="General Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler.vi"/>
@@ -199,7 +199,7 @@
 				<Property Name="Source[0].itemID" Type="Str">{20050B8A-9E58-401C-A5A1-8A5AEFB3BDF5}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[1].itemID" Type="Ref">/My Computer/main.vi</Property>
+				<Property Name="Source[1].itemID" Type="Ref"></Property>
 				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
 				<Property Name="Source[1].type" Type="Str">VI</Property>
 				<Property Name="SourceCount" Type="Int">2</Property>
