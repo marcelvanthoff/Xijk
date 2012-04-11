@@ -7,7 +7,6 @@
 		<Item Name="Sorting" Type="Folder">
 			<Item Name="_Subs" Type="Folder">
 				<Item Name="Sort 2D String Array - Generate Format String.vi" Type="VI" URL="../Sorting/_Subs/Sort 2D String Array - Generate Format String.vi"/>
-				<Item Name="Sort 2D String Array - Preview Sorted Array.vi" Type="VI" URL="../Sorting/_Subs/Sort 2D String Array - Preview Sorted Array.vi"/>
 				<Item Name="Sort 2D String Array - Return Format String.vi" Type="VI" URL="../Sorting/_Subs/Sort 2D String Array - Return Format String.vi"/>
 				<Item Name="Sort 2D String Array - Pre-process.vi" Type="VI" URL="../Sorting/_Subs/Sort 2D String Array - Pre-process.vi"/>
 				<Item Name="Sort 2D String Array - StringTransform (Pre Sort).vi" Type="VI" URL="../Sorting/_Subs/Sort 2D String Array - StringTransform (Pre Sort).vi"/>
@@ -25,7 +24,6 @@
 				<Item Name="TYPE - Sorted Array (Cols in Sort Order. Header row removed).ctl" Type="VI" URL="../Sorting/_TypeDefs/TYPE - Sorted Array (Cols in Sort Order. Header row removed).ctl"/>
 				<Item Name="TYPE - Sorted Array (Cols in Sort Order. Headers as last row).ctl" Type="VI" URL="../Sorting/_TypeDefs/TYPE - Sorted Array (Cols in Sort Order. Headers as last row).ctl"/>
 			</Item>
-			<Item Name="Readme.txt" Type="Document" URL="../Sorting/Readme.txt"/>
 			<Item Name="Sort 2D String Array.vi" Type="VI" URL="../Sorting/Sort 2D String Array.vi"/>
 		</Item>
 	</Item>
