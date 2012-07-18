@@ -127,7 +127,7 @@
 <Name>Integers</Name>
 <NumElts>1</NumElts>
 <U32>
-<Name>Select result n°</Name>
+<Name>Select result number</Name>
 <Val>0</Val>
 </U32>
 </Cluster>
@@ -222,18 +222,18 @@
 <Name>Wavelength of laser (nm) 1</Name>
 <Val>488</Val>
 </U16>
-<U16>
+<SGL>
 <Name>Broadness of laser (nm) 1</Name>
 <Val>1</Val>
-</U16>
+</SGL>
 <U16>
 <Name>Wavelength of laser (nm) 2</Name>
 <Val>0</Val>
 </U16>
-<U16>
+<SGL>
 <Name>Broadness of laser (nm) 2</Name>
 <Val>0</Val>
-</U16>
+</SGL>
 <U16>
 <Name>Template</Name>
 <Val>2</Val>
@@ -242,22 +242,22 @@
 <Cluster>
 <Name>Doubles</Name>
 <NumElts>4</NumElts>
-<DBL>
+<SGL>
 <Name>Molar extinction 1</Name>
 <Val>55999.99999999999990</Val>
-</DBL>
-<DBL>
+</SGL>
+<SGL>
 <Name>Molar extinction 2</Name>
 <Val>27000.00000000000000</Val>
-</DBL>
-<DBL>
+</SGL>
+<SGL>
 <Name>Quantum efficiency 1</Name>
 <Val>0.60000000000000</Val>
-</DBL>
-<DBL>
+</SGL>
+<SGL>
 <Name>Quantum efficiency 2</Name>
 <Val>0.20000000000000</Val>
-</DBL>
+</SGL>
 </Cluster>
 </Cluster>
 <Cluster>
