@@ -185,11 +185,7 @@
 <NumElts>3</NumElts>
 <Cluster>
 <Name>Booleans</Name>
-<NumElts>5</NumElts>
-<Boolean>
-<Name>Notch filtering</Name>
-<Val>0</Val>
-</Boolean>
+<NumElts>4</NumElts>
 <Boolean>
 <Name>Unknown detector</Name>
 <Val>0</Val>
