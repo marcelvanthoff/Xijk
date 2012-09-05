@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Project Type="Project" LVVersion="10008000">
+<Project Type="Project" LVVersion="9008000">
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.Project.Description" Type="Str"></Property>
 	<Item Name="My Computer" Type="My Computer">
@@ -115,24 +115,33 @@
 				<Item Name="Write to XML File(array).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Write to XML File(array).vi"/>
 				<Item Name="Write to XML File(string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Write to XML File(string).vi"/>
 				<Item Name="Write to XML File.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Write to XML File.vi"/>
+				<Item Name="Merge Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Merge Errors.vi"/>
 			</Item>
-			<Item Name="lvanlys.dll" Type="Document" URL="/C/Program Files/National Instruments/LabVIEW 2010/resource/lvanlys.dll"/>
 			<Item Name="nivision.dll" Type="Document" URL="nivision.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="nivissvc.dll" Type="Document" URL="nivissvc.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="lvanlys.dll" Type="Document" URL="../../../Program Files/National Instruments/LabVIEW 2009/resource/lvanlys.dll"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Xijk" Type="EXE">
+				<Property Name="App_applicationGUID" Type="Str">{C432E8BF-AB55-4238-8E8B-AEAE3E596DF5}</Property>
+				<Property Name="App_applicationName" Type="Str">Xijk.exe</Property>
+				<Property Name="App_autoIncrement" Type="Bool">true</Property>
+				<Property Name="App_companyName" Type="Str">Marcel van 't Hoff</Property>
+				<Property Name="App_fileDescription" Type="Str">Xijk</Property>
+				<Property Name="App_fileVersion.build" Type="Int">18</Property>
+				<Property Name="App_fileVersion.major" Type="Int">1</Property>
 				<Property Name="App_INI_aliasGUID" Type="Str">{92702501-38D6-47A3-BAFC-15B44DFBE9B2}</Property>
 				<Property Name="App_INI_GUID" Type="Str">{2BE2C96C-259E-432D-BC42-5C2404B6AD06}</Property>
+				<Property Name="App_internalName" Type="Str">Xijk</Property>
+				<Property Name="App_legalCopyright" Type="Str">Copyright © 2010 Inserm U603</Property>
+				<Property Name="App_productName" Type="Str">Xijk</Property>
 				<Property Name="Bld_buildSpecName" Type="Str">Xijk</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
-				<Property Name="Bld_localDestDir" Type="Path">../xijk/executable</Property>
-				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Destination[0].destName" Type="Str">Xijk.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../NI_AB_PROJECTNAME/executable/xijk.exe</Property>
@@ -149,16 +158,6 @@
 				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
 				<Property Name="Source[1].type" Type="Str">VI</Property>
 				<Property Name="SourceCount" Type="Int">2</Property>
-				<Property Name="TgtF_autoIncrement" Type="Bool">true</Property>
-				<Property Name="TgtF_companyName" Type="Str">Marcel van 't Hoff</Property>
-				<Property Name="TgtF_fileDescription" Type="Str">Xijk</Property>
-				<Property Name="TgtF_fileVersion.build" Type="Int">18</Property>
-				<Property Name="TgtF_fileVersion.major" Type="Int">1</Property>
-				<Property Name="TgtF_internalName" Type="Str">Xijk</Property>
-				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2010 Inserm U603</Property>
-				<Property Name="TgtF_productName" Type="Str">Xijk</Property>
-				<Property Name="TgtF_targetfileGUID" Type="Str">{C432E8BF-AB55-4238-8E8B-AEAE3E596DF5}</Property>
-				<Property Name="TgtF_targetfileName" Type="Str">Xijk.exe</Property>
 			</Item>
 		</Item>
 	</Item>
