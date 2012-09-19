@@ -3,7 +3,11 @@
 <Version>10.0</Version>
 <Cluster>
 <Name>save cluster</Name>
-<NumElts>4</NumElts>
+<NumElts>5</NumElts> 
+<String>
+<Name>Project name</Name> 
+<Val>FITC-TxRed</Val> 
+</String>
 <Cluster>
 <Name></Name>
 <NumElts>2</NumElts>
