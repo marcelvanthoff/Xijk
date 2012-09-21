@@ -1,15 +1,15 @@
 <?xml version='1.0' standalone='yes' ?>
 <LVData xmlns="http://www.ni.com/LVData">
-<Version>10.0.1</Version>
+<Version>9.0f3</Version>
 <Cluster>
 <Name>save cluster</Name>
-<NumElts>5</NumElts> 
+<NumElts>5</NumElts>
 <String>
-<Name>Project name</Name> 
-<Val>CFP</Val> 
+<Name>Project name</Name>
+<Val>CFP</Val>
 </String>
 <Cluster>
-<Name></Name>
+<Name>configuration</Name>
 <NumElts>2</NumElts>
 <Cluster>
 <Name>axes in</Name>
@@ -176,11 +176,11 @@
 </I32>
 <I32>
 <Name></Name>
-<Val>9</Val>
+<Val>10</Val>
 </I32>
 <I32>
 <Name></Name>
-<Val>9</Val>
+<Val>10</Val>
 </I32>
 </Array>
 </Cluster>
@@ -265,15 +265,15 @@
 <NumElts>14</NumElts>
 <Path>
 <Name>Excitation filter 1</Name>
-<Val>H:\temp programming\+ Labview\01 Xijk\server\revised version\Examples\CFP\D440_20x.txt</Val>
+<Val>C:\Marcel\xijk\Examples\CFP\D440_20x.txt</Val>
 </Path>
 <Path>
 <Name>Dichroic filter 1</Name>
-<Val>H:\temp programming\+ Labview\01 Xijk\server\revised version\Examples\CFP\460DCLP.txt</Val>
+<Val>C:\Marcel\xijk\Examples\CFP\460DCLP.txt</Val>
 </Path>
 <Path>
 <Name>Emission filter 1</Name>
-<Val>H:\temp programming\+ Labview\01 Xijk\server\revised version\Examples\CFP\HQ500_40m.txt</Val>
+<Val>C:\Marcel\xijk\Examples\CFP\HQ500_40m.txt</Val>
 </Path>
 <Path>
 <Name>Excitation filter 2</Name>
@@ -301,11 +301,11 @@
 </Path>
 <Path>
 <Name>Fluorophore absorption 1</Name>
-<Val>H:\temp programming\+ Labview\01 Xijk\server\revised version\Examples\CFP\CFP_abs.txt</Val>
+<Val>C:\Marcel\xijk\Examples\CFP\CFP_abs.txt</Val>
 </Path>
 <Path>
 <Name>Fluorophore emission 1</Name>
-<Val>H:\temp programming\+ Labview\01 Xijk\server\revised version\Examples\CFP\CFP_emi.txt</Val>
+<Val>C:\Marcel\xijk\Examples\CFP\CFP_emi.txt</Val>
 </Path>
 <Path>
 <Name>Fluorophore absorption 2</Name>

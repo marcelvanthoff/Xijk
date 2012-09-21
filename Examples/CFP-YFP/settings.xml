@@ -1,15 +1,15 @@
 <?xml version='1.0' standalone='yes' ?>
 <LVData xmlns="http://www.ni.com/LVData">
-<Version>10.0</Version>
+<Version>9.0f3</Version>
 <Cluster>
 <Name>save cluster</Name>
-<NumElts>5</NumElts> 
+<NumElts>5</NumElts>
 <String>
-<Name>Project name</Name> 
-<Val>CFP-YFP</Val> 
+<Name>Project name</Name>
+<Val>CFP-YFP</Val>
 </String>
 <Cluster>
-<Name></Name>
+<Name>configuration</Name>
 <NumElts>2</NumElts>
 <Cluster>
 <Name>axes in</Name>
@@ -224,7 +224,7 @@
 </U16>
 <SGL>
 <Name>Broadness of laser (nm) 1</Name>
-<Val>1</Val>
+<Val>1.00000</Val>
 </SGL>
 <U16>
 <Name>Wavelength of laser (nm) 2</Name>
@@ -232,7 +232,7 @@
 </U16>
 <SGL>
 <Name>Broadness of laser (nm) 2</Name>
-<Val>1</Val>
+<Val>1.00000</Val>
 </SGL>
 <U16>
 <Name>Template</Name>
@@ -265,27 +265,27 @@
 <NumElts>14</NumElts>
 <Path>
 <Name>Excitation filter 1</Name>
-<Val>H:\temp programming\+ Labview\01 Xijk\server\revised version\Examples\CFP-YFP\D440_20x.txt</Val>
+<Val>C:\Marcel\xijk\Examples\CFP-YFP\D440_20x.txt</Val>
 </Path>
 <Path>
 <Name>Dichroic filter 1</Name>
-<Val>H:\temp programming\+ Labview\01 Xijk\server\revised version\Examples\CFP-YFP\460DCLP.txt</Val>
+<Val>C:\Marcel\xijk\Examples\CFP-YFP\460DCLP.txt</Val>
 </Path>
 <Path>
 <Name>Emission filter 1</Name>
-<Val>H:\temp programming\+ Labview\01 Xijk\server\revised version\Examples\CFP-YFP\HQ500_40m.txt</Val>
+<Val>C:\Marcel\xijk\Examples\CFP-YFP\HQ500_40m.txt</Val>
 </Path>
 <Path>
 <Name>Excitation filter 2</Name>
-<Val>H:\temp programming\+ Labview\01 Xijk\server\revised version\Examples\CFP-YFP\D510_20x.txt</Val>
+<Val>C:\Marcel\xijk\Examples\CFP-YFP\D510_20x.txt</Val>
 </Path>
 <Path>
 <Name>Dichroic filter 2</Name>
-<Val>H:\temp programming\+ Labview\01 Xijk\server\revised version\Examples\CFP-YFP\ET520LP.txt</Val>
+<Val>C:\Marcel\xijk\Examples\CFP-YFP\ET520LP.txt</Val>
 </Path>
 <Path>
 <Name>Emission filter 2</Name>
-<Val>H:\temp programming\+ Labview\01 Xijk\server\revised version\Examples\CFP-YFP\D540_40m.txt</Val>
+<Val>C:\Marcel\xijk\Examples\CFP-YFP\D540_40m.txt</Val>
 </Path>
 <Path>
 <Name>Extra em filter 1</Name>
@@ -301,19 +301,19 @@
 </Path>
 <Path>
 <Name>Fluorophore absorption 1</Name>
-<Val>H:\temp programming\+ Labview\01 Xijk\server\revised version\Examples\CFP-YFP\CFP_abs.txt</Val>
+<Val>C:\Marcel\xijk\Examples\CFP-YFP\CFP_abs.txt</Val>
 </Path>
 <Path>
 <Name>Fluorophore emission 1</Name>
-<Val>H:\temp programming\+ Labview\01 Xijk\server\revised version\Examples\CFP-YFP\CFP_emi.txt</Val>
+<Val>C:\Marcel\xijk\Examples\CFP-YFP\CFP_emi.txt</Val>
 </Path>
 <Path>
 <Name>Fluorophore absorption 2</Name>
-<Val>H:\temp programming\+ Labview\01 Xijk\server\revised version\Examples\CFP-YFP\YFP_abs.txt</Val>
+<Val>C:\Marcel\xijk\Examples\CFP-YFP\YFP_abs.txt</Val>
 </Path>
 <Path>
 <Name>Fluorophore emission 2</Name>
-<Val>H:\temp programming\+ Labview\01 Xijk\server\revised version\Examples\CFP-YFP\YFP_emi.txt</Val>
+<Val>C:\Marcel\xijk\Examples\CFP-YFP\YFP_emi.txt</Val>
 </Path>
 <Path>
 <Name>Detector</Name>

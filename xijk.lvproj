@@ -132,7 +132,7 @@
 				<Property Name="App_autoIncrement" Type="Bool">true</Property>
 				<Property Name="App_companyName" Type="Str">Marcel van 't Hoff</Property>
 				<Property Name="App_fileDescription" Type="Str">Xijk</Property>
-				<Property Name="App_fileVersion.build" Type="Int">18</Property>
+				<Property Name="App_fileVersion.build" Type="Int">19</Property>
 				<Property Name="App_fileVersion.major" Type="Int">1</Property>
 				<Property Name="App_INI_aliasGUID" Type="Str">{92702501-38D6-47A3-BAFC-15B44DFBE9B2}</Property>
 				<Property Name="App_INI_GUID" Type="Str">{2BE2C96C-259E-432D-BC42-5C2404B6AD06}</Property>
