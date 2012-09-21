@@ -3,7 +3,11 @@
 <Version>10.0</Version>
 <Cluster>
 <Name>save cluster</Name>
-<NumElts>4</NumElts>
+<NumElts>5</NumElts> 
+<String>
+<Name>Project name</Name> 
+<Val>YFP</Val> 
+</String>
 <Cluster>
 <Name></Name>
 <NumElts>2</NumElts>
@@ -127,7 +131,7 @@
 <Name>Integers</Name>
 <NumElts>1</NumElts>
 <U32>
-<Name>Select result n°</Name>
+<Name>Select result number</Name>
 <Val>0</Val>
 </U32>
 </Cluster>
@@ -185,11 +189,7 @@
 <NumElts>3</NumElts>
 <Cluster>
 <Name>Booleans</Name>
-<NumElts>5</NumElts>
-<Boolean>
-<Name>Notch filtering</Name>
-<Val>0</Val>
-</Boolean>
+<NumElts>4</NumElts>
 <Boolean>
 <Name>Unknown detector</Name>
 <Val>0</Val>
@@ -222,18 +222,18 @@
 <Name>Wavelength of laser (nm) 1</Name>
 <Val>510</Val>
 </U16>
-<U16>
+<SGL>
 <Name>Broadness of laser (nm) 1</Name>
 <Val>1</Val>
-</U16>
+</SGL>
 <U16>
 <Name>Wavelength of laser (nm) 2</Name>
 <Val>0</Val>
 </U16>
-<U16>
+<SGL>
 <Name>Broadness of laser (nm) 2</Name>
 <Val>0</Val>
-</U16>
+</SGL>
 <U16>
 <Name>Template</Name>
 <Val>1</Val>
@@ -242,22 +242,22 @@
 <Cluster>
 <Name>Doubles</Name>
 <NumElts>4</NumElts>
-<DBL>
+<SGL>
 <Name>Molar extinction 1</Name>
 <Val>83399.99999999999990</Val>
-</DBL>
-<DBL>
+</SGL>
+<SGL>
 <Name>Molar extinction 2</Name>
 <Val>0.00000000000000</Val>
-</DBL>
-<DBL>
+</SGL>
+<SGL>
 <Name>Quantum efficiency 1</Name>
 <Val>0.61000000000000</Val>
-</DBL>
-<DBL>
+</SGL>
+<SGL>
 <Name>Quantum efficiency 2</Name>
 <Val>0.00000000000000</Val>
-</DBL>
+</SGL>
 </Cluster>
 </Cluster>
 <Cluster>

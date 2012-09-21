@@ -6,7 +6,7 @@
 <NumElts>5</NumElts>
 <String>
 <Name>Project name</Name>
-<Val>CFP-YFP</Val>
+<Val>DAPI</Val>
 </String>
 <Cluster>
 <Name>configuration</Name>
@@ -16,19 +16,19 @@
 <NumElts>5</NumElts>
 <U16>
 <Name>min x-axis excitation</Name>
-<Val>350</Val>
+<Val>300</Val>
 </U16>
 <U16>
 <Name>max x-axis excitation</Name>
-<Val>550</Val>
-</U16>
-<U16>
-<Name>min x-axis emission</Name>
 <Val>450</Val>
 </U16>
 <U16>
+<Name>min x-axis emission</Name>
+<Val>400</Val>
+</U16>
+<U16>
 <Name>max x-axis emission</Name>
-<Val>650</Val>
+<Val>600</Val>
 </U16>
 <U8>
 <Name>precision of results</Name>
@@ -172,11 +172,11 @@
 </I32>
 <I32>
 <Name></Name>
-<Val>9</Val>
+<Val>8</Val>
 </I32>
 <I32>
 <Name></Name>
-<Val>11</Val>
+<Val>10</Val>
 </I32>
 <I32>
 <Name></Name>
@@ -204,7 +204,7 @@
 </Boolean>
 <Boolean>
 <Name>FRET</Name>
-<Val>1</Val>
+<Val>0</Val>
 </Boolean>
 </Cluster>
 <Cluster>
@@ -216,11 +216,11 @@
 </U16>
 <U16>
 <Name>Number of fluorophores</Name>
-<Val>1</Val>
+<Val>0</Val>
 </U16>
 <U16>
 <Name>Wavelength of laser (nm) 1</Name>
-<Val>440</Val>
+<Val>350</Val>
 </U16>
 <SGL>
 <Name>Broadness of laser (nm) 1</Name>
@@ -236,7 +236,7 @@
 </SGL>
 <U16>
 <Name>Template</Name>
-<Val>4</Val>
+<Val>1</Val>
 </U16>
 </Cluster>
 <Cluster>
@@ -244,19 +244,19 @@
 <NumElts>4</NumElts>
 <SGL>
 <Name>Molar extinction 1</Name>
-<Val>32500.00000</Val>
+<Val>1.00000</Val>
 </SGL>
 <SGL>
 <Name>Molar extinction 2</Name>
-<Val>83400.00000</Val>
+<Val>1.00000</Val>
 </SGL>
 <SGL>
 <Name>Quantum efficiency 1</Name>
-<Val>0.40000</Val>
+<Val>1.00000</Val>
 </SGL>
 <SGL>
 <Name>Quantum efficiency 2</Name>
-<Val>0.61000</Val>
+<Val>1.00000</Val>
 </SGL>
 </Cluster>
 </Cluster>
@@ -265,27 +265,27 @@
 <NumElts>14</NumElts>
 <Path>
 <Name>Excitation filter 1</Name>
-<Val>C:\Marcel\xijk\Examples\CFP-YFP\D440_20x.txt</Val>
+<Val>C:\Marcel\xijk\Examples\DAPI\AT350_50x.txt</Val>
 </Path>
 <Path>
 <Name>Dichroic filter 1</Name>
-<Val>C:\Marcel\xijk\Examples\CFP-YFP\460DCLP.txt</Val>
+<Val>C:\Marcel\xijk\Examples\DAPI\T400LP.txt</Val>
 </Path>
 <Path>
 <Name>Emission filter 1</Name>
-<Val>C:\Marcel\xijk\Examples\CFP-YFP\HQ500_40m.txt</Val>
+<Val>C:\Marcel\xijk\Examples\DAPI\ET460_50m.txt</Val>
 </Path>
 <Path>
 <Name>Excitation filter 2</Name>
-<Val>C:\Marcel\xijk\Examples\CFP-YFP\D510_20x.txt</Val>
+<Val></Val>
 </Path>
 <Path>
 <Name>Dichroic filter 2</Name>
-<Val>C:\Marcel\xijk\Examples\CFP-YFP\ET520LP.txt</Val>
+<Val></Val>
 </Path>
 <Path>
 <Name>Emission filter 2</Name>
-<Val>C:\Marcel\xijk\Examples\CFP-YFP\D540_40m.txt</Val>
+<Val></Val>
 </Path>
 <Path>
 <Name>Extra em filter 1</Name>
@@ -301,19 +301,19 @@
 </Path>
 <Path>
 <Name>Fluorophore absorption 1</Name>
-<Val>C:\Marcel\xijk\Examples\CFP-YFP\CFP_abs.txt</Val>
+<Val>C:\Marcel\xijk\Examples\DAPI\DAPI_ex.txt</Val>
 </Path>
 <Path>
 <Name>Fluorophore emission 1</Name>
-<Val>C:\Marcel\xijk\Examples\CFP-YFP\CFP_emi.txt</Val>
+<Val>C:\Marcel\xijk\Examples\DAPI\DAPI_em.txt</Val>
 </Path>
 <Path>
 <Name>Fluorophore absorption 2</Name>
-<Val>C:\Marcel\xijk\Examples\CFP-YFP\YFP_abs.txt</Val>
+<Val></Val>
 </Path>
 <Path>
 <Name>Fluorophore emission 2</Name>
-<Val>C:\Marcel\xijk\Examples\CFP-YFP\YFP_emi.txt</Val>
+<Val></Val>
 </Path>
 <Path>
 <Name>Detector</Name>
