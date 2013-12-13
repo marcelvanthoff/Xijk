@@ -224,7 +224,7 @@
 </U16>
 <SGL>
 <Name>Broadness of laser (nm) 1</Name>
-<Val>1.00000</Val>
+<Val>10.00000</Val>
 </SGL>
 <U16>
 <Name>Wavelength of laser (nm) 2</Name>
