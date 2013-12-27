@@ -6,7 +6,7 @@
 <NumElts>5</NumElts>
 <String>
 <Name>Project name</Name>
-<Val>eGFP-Bodipy</Val>
+<Val>eGFP-Rhod4</Val>
 </String>
 <Cluster>
 <Name>configuration</Name>
@@ -16,7 +16,7 @@
 <NumElts>5</NumElts>
 <U16>
 <Name>min x-axis excitation</Name>
-<Val>450</Val>
+<Val>400</Val>
 </U16>
 <U16>
 <Name>max x-axis excitation</Name>
@@ -28,7 +28,7 @@
 </U16>
 <U16>
 <Name>max x-axis emission</Name>
-<Val>700</Val>
+<Val>650</Val>
 </U16>
 <U8>
 <Name>precision of results</Name>
@@ -224,11 +224,11 @@
 </U16>
 <SGL>
 <Name>Broadness of laser (nm) 1</Name>
-<Val>5.00000</Val>
+<Val>3.00000</Val>
 </SGL>
 <U16>
 <Name>Wavelength of laser (nm) 2</Name>
-<Val>510</Val>
+<Val>500</Val>
 </U16>
 <SGL>
 <Name>Broadness of laser (nm) 2</Name>
@@ -265,27 +265,27 @@
 <NumElts>14</NumElts>
 <Path>
 <Name>Excitation filter 1</Name>
-<Val>D:\Programming\Xijk\Examples\eGFP-Bodipy R6G\Z488_10x.txt</Val>
+<Val>D:\Programming\Xijk\Examples\eGFP-Rhod4\Z488_10x.txt</Val>
 </Path>
 <Path>
 <Name>Dichroic filter 1</Name>
-<Val>D:\Programming\Xijk\Examples\eGFP-Bodipy R6G\490DCLP.txt</Val>
+<Val>D:\Programming\Xijk\Examples\eGFP-Rhod4\490DCLP.txt</Val>
 </Path>
 <Path>
 <Name>Emission filter 1</Name>
-<Val>D:\Programming\Xijk\Examples\eGFP-Bodipy R6G\HC510_42.txt</Val>
+<Val>D:\Programming\Xijk\Examples\eGFP-Rhod4\HC510_42.txt</Val>
 </Path>
 <Path>
 <Name>Excitation filter 2</Name>
-<Val>D:\Programming\Xijk\Examples\eGFP-Bodipy R6G\Z488_10x.txt</Val>
+<Val>D:\Programming\Xijk\Examples\eGFP-Rhod4\Z488_10x.txt</Val>
 </Path>
 <Path>
 <Name>Dichroic filter 2</Name>
-<Val>D:\Programming\Xijk\Examples\eGFP-Bodipy R6G\500DCLP.txt</Val>
+<Val>D:\Programming\Xijk\Examples\eGFP-Rhod2\490DCLP.txt</Val>
 </Path>
 <Path>
 <Name>Emission filter 2</Name>
-<Val>D:\Programming\Xijk\Examples\eGFP-Bodipy R6G\ET570_60.txt</Val>
+<Val>D:\Programming\Xijk\Examples\eGFP-Rhod4\ET570_60.txt</Val>
 </Path>
 <Path>
 <Name>Extra em filter 1</Name>
@@ -301,19 +301,19 @@
 </Path>
 <Path>
 <Name>Fluorophore absorption 1</Name>
-<Val>D:\Programming\Xijk\Examples\eGFP-Bodipy R6G\eGFP_abs.txt</Val>
+<Val>D:\Programming\Xijk\Examples\eGFP-Rhod4\eGFP_abs.txt</Val>
 </Path>
 <Path>
 <Name>Fluorophore emission 1</Name>
-<Val>D:\Programming\Xijk\Examples\eGFP-Bodipy R6G\eGFP_em.txt</Val>
+<Val>D:\Programming\Xijk\Examples\eGFP-Rhod4\eGFP_em.txt</Val>
 </Path>
 <Path>
 <Name>Fluorophore absorption 2</Name>
-<Val>D:\Programming\Xijk\Examples\eGFP-Bodipy R6G\Bodipy-R6G_abs.txt</Val>
+<Val>D:\Programming\Xijk\Examples\eGFP-Rhod4\rhod4_abs.txt</Val>
 </Path>
 <Path>
 <Name>Fluorophore emission 2</Name>
-<Val>D:\Programming\Xijk\Examples\eGFP-Bodipy R6G\Bodipy-R6G_em.txt</Val>
+<Val>D:\Programming\Xijk\Examples\eGFP-Rhod4\rhod4_em.txt</Val>
 </Path>
 <Path>
 <Name>Detector</Name>
