@@ -16,11 +16,11 @@
 <NumElts>5</NumElts>
 <U16>
 <Name>min x-axis excitation</Name>
-<Val>300</Val>
+<Val>450</Val>
 </U16>
 <U16>
 <Name>max x-axis excitation</Name>
-<Val>600</Val>
+<Val>550</Val>
 </U16>
 <U16>
 <Name>min x-axis emission</Name>
@@ -273,7 +273,7 @@
 </Path>
 <Path>
 <Name>Emission filter 1</Name>
-<Val>D:\Programming\Xijk\Examples\eGFP-Premo\HQ500_40m.txt</Val>
+<Val>D:\Programming\Xijk\Examples\eGFP-Premo\ET500_40.txt</Val>
 </Path>
 <Path>
 <Name>Excitation filter 2</Name>

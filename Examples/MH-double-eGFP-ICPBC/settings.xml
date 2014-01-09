@@ -1,0 +1,324 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>10.0.1</Version>
+<Cluster>
+<Name>save cluster</Name>
+<NumElts>5</NumElts>
+<String>
+<Name>Project name</Name>
+<Val>eGFP - ICPBC</Val>
+</String>
+<Cluster>
+<Name>configuration</Name>
+<NumElts>2</NumElts>
+<Cluster>
+<Name>axes in</Name>
+<NumElts>5</NumElts>
+<U16>
+<Name>min x-axis excitation</Name>
+<Val>400</Val>
+</U16>
+<U16>
+<Name>max x-axis excitation</Name>
+<Val>600</Val>
+</U16>
+<U16>
+<Name>min x-axis emission</Name>
+<Val>450</Val>
+</U16>
+<U16>
+<Name>max x-axis emission</Name>
+<Val>650</Val>
+</U16>
+<U8>
+<Name>precision of results</Name>
+<Val>2</Val>
+</U8>
+</Cluster>
+<Cluster>
+<Name>plot colors in</Name>
+<NumElts>4</NumElts>
+<Boolean>
+<Name>Lanscape Portrait</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Plot logarithmic</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Ex/Em filters double</Name>
+<Val>0</Val>
+</Boolean>
+<Array>
+<Name>Line colors</Name>
+<Dimsize>6</Dimsize>
+<U32>
+<Name></Name>
+<Val>16734569</Val>
+</U32>
+<U32>
+<Name></Name>
+<Val>56375</Val>
+</U32>
+<U32>
+<Name></Name>
+<Val>16711916</Val>
+</U32>
+<U32>
+<Name></Name>
+<Val>5896447</Val>
+</U32>
+<U32>
+<Name></Name>
+<Val>16448250</Val>
+</U32>
+<U32>
+<Name></Name>
+<Val>56375</Val>
+</U32>
+</Array>
+</Cluster>
+</Cluster>
+<Cluster>
+<Name>search paths in</Name>
+<NumElts>7</NumElts>
+<Cluster>
+<Name>Paths</Name>
+<NumElts>4</NumElts>
+<Path>
+<Name>Path: Excitation filters</Name>
+<Val></Val>
+</Path>
+<Path>
+<Name>Path: Dicroic filters</Name>
+<Val></Val>
+</Path>
+<Path>
+<Name>Path: Emission filters</Name>
+<Val></Val>
+</Path>
+<Path>
+<Name>Path reget</Name>
+<Val></Val>
+</Path>
+</Cluster>
+<Array>
+<Name>table excitation</Name>
+<Dimsize>0</Dimsize>
+<Path>
+<Name></Name>
+<Val></Val>
+</Path>
+</Array>
+<Array>
+<Name>table dicroics</Name>
+<Dimsize>0</Dimsize>
+<Path>
+<Name></Name>
+<Val></Val>
+</Path>
+</Array>
+<Array>
+<Name>table emission</Name>
+<Dimsize>0</Dimsize>
+<Path>
+<Name></Name>
+<Val></Val>
+</Path>
+</Array>
+<Cluster>
+<Name>Integers</Name>
+<NumElts>1</NumElts>
+<U32>
+<Name>Select result number</Name>
+<Val>0</Val>
+</U32>
+</Cluster>
+<Array>
+<Name>boolean selector array</Name>
+<Dimsize>6</Dimsize>
+<Boolean>
+<Name>2. Emission</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>2. Emission</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>2. Emission</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>2. Emission</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>2. Emission</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>2. Emission</Name>
+<Val>0</Val>
+</Boolean>
+</Array>
+<Array>
+<Name>table for calculation automagic</Name>
+<Dimsize>4</Dimsize>
+<I32>
+<Name></Name>
+<Val>8</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>15</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>13</Val>
+</I32>
+<I32>
+<Name></Name>
+<Val>10</Val>
+</I32>
+</Array>
+</Cluster>
+<Cluster>
+<Name>spectra parameters in</Name>
+<NumElts>3</NumElts>
+<Cluster>
+<Name>Booleans</Name>
+<NumElts>4</NumElts>
+<Boolean>
+<Name>Unknown detector</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>Dual band filters</Name>
+<Val>0</Val>
+</Boolean>
+<Boolean>
+<Name>Dual emission by cubes</Name>
+<Val>1</Val>
+</Boolean>
+<Boolean>
+<Name>FRET</Name>
+<Val>0</Val>
+</Boolean>
+</Cluster>
+<Cluster>
+<Name>Integers</Name>
+<NumElts>7</NumElts>
+<U16>
+<Name>Light source</Name>
+<Val>2</Val>
+</U16>
+<U16>
+<Name>Number of fluorophores</Name>
+<Val>1</Val>
+</U16>
+<U16>
+<Name>Wavelength of laser (nm) 1</Name>
+<Val>488</Val>
+</U16>
+<SGL>
+<Name>Broadness of laser (nm) 1</Name>
+<Val>2.00000</Val>
+</SGL>
+<U16>
+<Name>Wavelength of laser (nm) 2</Name>
+<Val>561</Val>
+</U16>
+<SGL>
+<Name>Broadness of laser (nm) 2</Name>
+<Val>2.00000</Val>
+</SGL>
+<U16>
+<Name>Template</Name>
+<Val>6</Val>
+</U16>
+</Cluster>
+<Cluster>
+<Name>Doubles</Name>
+<NumElts>4</NumElts>
+<SGL>
+<Name>Molar extinction 1</Name>
+<Val>1.00000</Val>
+</SGL>
+<SGL>
+<Name>Molar extinction 2</Name>
+<Val>1.00000</Val>
+</SGL>
+<SGL>
+<Name>Quantum efficiency 1</Name>
+<Val>1.00000</Val>
+</SGL>
+<SGL>
+<Name>Quantum efficiency 2</Name>
+<Val>1.00000</Val>
+</SGL>
+</Cluster>
+</Cluster>
+<Cluster>
+<Name>filepaths in</Name>
+<NumElts>14</NumElts>
+<Path>
+<Name>Excitation filter 1</Name>
+<Val>D:\Programming\Xijk\Examples\MH-double-eGFP-ICPBC\59022x.txt</Val>
+</Path>
+<Path>
+<Name>Dichroic filter 1</Name>
+<Val>D:\Programming\Xijk\Examples\MH-double-eGFP-ICPBC\59022bs.txt</Val>
+</Path>
+<Path>
+<Name>Emission filter 1</Name>
+<Val>D:\Programming\Xijk\Examples\MH-double-eGFP-ICPBC\59022m.txt</Val>
+</Path>
+<Path>
+<Name>Excitation filter 2</Name>
+<Val>D:\Programming\Xijk\Examples\MH-double-eGFP-ICPBC\59022x.txt</Val>
+</Path>
+<Path>
+<Name>Dichroic filter 2</Name>
+<Val>D:\Programming\Xijk\Examples\MH-double-eGFP-ICPBC\59022bs.txt</Val>
+</Path>
+<Path>
+<Name>Emission filter 2</Name>
+<Val>D:\Programming\Xijk\Examples\MH-double-eGFP-ICPBC\59022m.txt</Val>
+</Path>
+<Path>
+<Name>Extra em filter 1</Name>
+<Val></Val>
+</Path>
+<Path>
+<Name>Extra em filter 2</Name>
+<Val></Val>
+</Path>
+<Path>
+<Name>Light source file</Name>
+<Val></Val>
+</Path>
+<Path>
+<Name>Fluorophore absorption 1</Name>
+<Val>D:\Programming\Xijk\Examples\MH-double-eGFP-ICPBC\eGFP_abs.txt</Val>
+</Path>
+<Path>
+<Name>Fluorophore emission 1</Name>
+<Val>D:\Programming\Xijk\Examples\MH-double-eGFP-ICPBC\eGFP_em.txt</Val>
+</Path>
+<Path>
+<Name>Fluorophore absorption 2</Name>
+<Val>D:\Programming\Xijk\Examples\MH-double-eGFP-ICPBC\ICPBC_abs.txt</Val>
+</Path>
+<Path>
+<Name>Fluorophore emission 2</Name>
+<Val>D:\Programming\Xijk\Examples\MH-double-eGFP-ICPBC\ICPBC_em.txt</Val>
+</Path>
+<Path>
+<Name>Detector</Name>
+<Val></Val>
+</Path>
+</Cluster>
+</Cluster>
+</LVData>

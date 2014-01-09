@@ -20,7 +20,7 @@
 </U16>
 <U16>
 <Name>max x-axis excitation</Name>
-<Val>700</Val>
+<Val>600</Val>
 </U16>
 <U16>
 <Name>min x-axis emission</Name>
@@ -28,7 +28,7 @@
 </U16>
 <U16>
 <Name>max x-axis emission</Name>
-<Val>800</Val>
+<Val>650</Val>
 </U16>
 <U8>
 <Name>precision of results</Name>
