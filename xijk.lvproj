@@ -136,7 +136,6 @@
 				<Property Name="Bld_localDestDir" Type="Path">../xijk/executable</Property>
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
-				<Property Name="Bld_targetDestDir" Type="Path"></Property>
 				<Property Name="Destination[0].destName" Type="Str">Xijk.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../NI_AB_PROJECTNAME/executable/xijk.exe</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
@@ -145,7 +144,7 @@
 				<Property Name="Destination[1].path" Type="Path">../NI_AB_PROJECTNAME/executable/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/Icons/xijko.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{35C48937-BB72-4DB5-B8F1-B2178AFF3402}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{37FB5001-4252-4A98-86F3-47E41B1D5AAC}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Xijk.vi</Property>
@@ -155,7 +154,7 @@
 				<Property Name="TgtF_autoIncrement" Type="Bool">true</Property>
 				<Property Name="TgtF_companyName" Type="Str">Marcel van 't Hoff</Property>
 				<Property Name="TgtF_fileDescription" Type="Str">Xijk</Property>
-				<Property Name="TgtF_fileVersion.build" Type="Int">19</Property>
+				<Property Name="TgtF_fileVersion.build" Type="Int">21</Property>
 				<Property Name="TgtF_fileVersion.major" Type="Int">1</Property>
 				<Property Name="TgtF_internalName" Type="Str">Xijk</Property>
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2010 Inserm U603</Property>
