@@ -1,6 +1,6 @@
 <?xml version='1.0' standalone='yes' ?>
 <LVData xmlns="http://www.ni.com/LVData">
-<Version>10.0.1</Version>
+<Version>10.0.1f4</Version>
 <Cluster>
 <Name>save cluster</Name>
 <NumElts>5</NumElts>
@@ -228,7 +228,7 @@
 </SGL>
 <U16>
 <Name>Wavelength of laser (nm) 2</Name>
-<Val>633</Val>
+<Val>561</Val>
 </U16>
 <SGL>
 <Name>Broadness of laser (nm) 2</Name>
@@ -265,27 +265,27 @@
 <NumElts>14</NumElts>
 <Path>
 <Name>Excitation filter 1</Name>
-<Val>D:\Programming\Xijk\Examples\eGFP-KFCA - Copy\ZET488_10x.txt</Val>
+<Val>D:\Programming\Xijk\executable\Examples\MH-single-eGFP-KFCA\ZET488_10x.txt</Val>
 </Path>
 <Path>
 <Name>Dichroic filter 1</Name>
-<Val>D:\Programming\Xijk\Examples\eGFP-KFCA - Copy\ZT488rdc.txt</Val>
+<Val>D:\Programming\Xijk\executable\Examples\MH-single-eGFP-KFCA\ZT488rdc.txt</Val>
 </Path>
 <Path>
 <Name>Emission filter 1</Name>
-<Val>D:\Programming\Xijk\Examples\eGFP-KFCA - Copy\ET525_50m.txt</Val>
+<Val>D:\Programming\Xijk\executable\Examples\MH-single-eGFP-KFCA\ET525_50m.txt</Val>
 </Path>
 <Path>
 <Name>Excitation filter 2</Name>
-<Val>D:\Programming\Xijk\Examples\eGFP-KFCA - Copy\HC632_22.txt</Val>
+<Val>D:\Programming\Xijk\executable\Examples\MH-single-eGFP-KFCA\ZET561_10x.txt</Val>
 </Path>
 <Path>
 <Name>Dichroic filter 2</Name>
-<Val>D:\Programming\Xijk\Examples\eGFP-KFCA - Copy\635LP.txt</Val>
+<Val>D:\Programming\Xijk\executable\Examples\MH-single-eGFP-KFCA\ZT561rdc.txt</Val>
 </Path>
 <Path>
 <Name>Emission filter 2</Name>
-<Val>D:\Programming\Xijk\Examples\eGFP-KFCA - Copy\685_80.txt</Val>
+<Val>D:\Programming\Xijk\executable\Examples\MH-single-eGFP-KFCA\ET630_75m.txt</Val>
 </Path>
 <Path>
 <Name>Extra em filter 1</Name>
@@ -301,19 +301,19 @@
 </Path>
 <Path>
 <Name>Fluorophore absorption 1</Name>
-<Val>D:\Programming\Xijk\Examples\eGFP-KFCA - Copy\eGFP_abs.txt</Val>
+<Val>D:\Programming\Xijk\executable\Examples\MH-single-eGFP-KFCA\eGFP_abs.txt</Val>
 </Path>
 <Path>
 <Name>Fluorophore emission 1</Name>
-<Val>D:\Programming\Xijk\Examples\eGFP-KFCA - Copy\eGFP_em.txt</Val>
+<Val>D:\Programming\Xijk\executable\Examples\MH-single-eGFP-KFCA\eGFP_em.txt</Val>
 </Path>
 <Path>
 <Name>Fluorophore absorption 2</Name>
-<Val>D:\Programming\Xijk\Examples\eGFP-KFCA - Copy\KFCA_abs.txt</Val>
+<Val>D:\Programming\Xijk\executable\Examples\MH-single-eGFP-KFCA\KFCA_abs.txt</Val>
 </Path>
 <Path>
 <Name>Fluorophore emission 2</Name>
-<Val>D:\Programming\Xijk\Examples\eGFP-KFCA - Copy\KFCA_em.txt</Val>
+<Val>D:\Programming\Xijk\executable\Examples\MH-single-eGFP-KFCA\KFCA_em.txt</Val>
 </Path>
 <Path>
 <Name>Detector</Name>

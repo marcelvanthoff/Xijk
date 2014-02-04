@@ -1,12 +1,12 @@
 <?xml version='1.0' standalone='yes' ?>
 <LVData xmlns="http://www.ni.com/LVData">
-<Version>10.0.1f4</Version>
+<Version>10.0.1</Version>
 <Cluster>
 <Name>save cluster</Name>
 <NumElts>5</NumElts>
 <String>
 <Name>Project name</Name>
-<Val>eGFP - ICPBC</Val>
+<Val>eGFP - XRhod1</Val>
 </String>
 <Cluster>
 <Name>configuration</Name>
@@ -20,7 +20,7 @@
 </U16>
 <U16>
 <Name>max x-axis excitation</Name>
-<Val>600</Val>
+<Val>650</Val>
 </U16>
 <U16>
 <Name>min x-axis emission</Name>
@@ -28,7 +28,7 @@
 </U16>
 <U16>
 <Name>max x-axis emission</Name>
-<Val>650</Val>
+<Val>699</Val>
 </U16>
 <U8>
 <Name>precision of results</Name>
@@ -172,11 +172,11 @@
 </I32>
 <I32>
 <Name></Name>
-<Val>9</Val>
+<Val>15</Val>
 </I32>
 <I32>
 <Name></Name>
-<Val>11</Val>
+<Val>13</Val>
 </I32>
 <I32>
 <Name></Name>
@@ -228,15 +228,15 @@
 </SGL>
 <U16>
 <Name>Wavelength of laser (nm) 2</Name>
-<Val>532</Val>
+<Val>561</Val>
 </U16>
 <SGL>
 <Name>Broadness of laser (nm) 2</Name>
-<Val>2.00000</Val>
+<Val>1.00000</Val>
 </SGL>
 <U16>
 <Name>Template</Name>
-<Val>2</Val>
+<Val>6</Val>
 </U16>
 </Cluster>
 <Cluster>
@@ -265,27 +265,27 @@
 <NumElts>14</NumElts>
 <Path>
 <Name>Excitation filter 1</Name>
-<Val>D:\Programming\Xijk\executable\Examples\MH-single-eGFP-ICPBC\ZET488_10x.txt</Val>
+<Val>D:\Programming\Xijk\Examples\MH-double-eGFP-XRhod1\59022x.txt</Val>
 </Path>
 <Path>
 <Name>Dichroic filter 1</Name>
-<Val>D:\Programming\Xijk\executable\Examples\MH-single-eGFP-ICPBC\ZT488rdc.txt</Val>
+<Val>D:\Programming\Xijk\Examples\MH-double-eGFP-XRhod1\59022bs.txt</Val>
 </Path>
 <Path>
 <Name>Emission filter 1</Name>
-<Val>D:\Programming\Xijk\executable\Examples\MH-single-eGFP-ICPBC\ET525_50m.txt</Val>
+<Val>D:\Programming\Xijk\Examples\MH-double-eGFP-XRhod1\59022m.txt</Val>
 </Path>
 <Path>
 <Name>Excitation filter 2</Name>
-<Val>D:\Programming\Xijk\executable\Examples\MH-single-eGFP-ICPBC\ZET532_10x.txt</Val>
+<Val>D:\Programming\Xijk\Examples\MH-double-eGFP-XRhod1\59022x.txt</Val>
 </Path>
 <Path>
 <Name>Dichroic filter 2</Name>
-<Val>D:\Programming\Xijk\executable\Examples\MH-single-eGFP-ICPBC\ZT532rdc.txt</Val>
+<Val>D:\Programming\Xijk\Examples\MH-double-eGFP-XRhod1\59022bs.txt</Val>
 </Path>
 <Path>
 <Name>Emission filter 2</Name>
-<Val>D:\Programming\Xijk\executable\Examples\MH-single-eGFP-ICPBC\ET590_50m.txt</Val>
+<Val>D:\Programming\Xijk\Examples\MH-double-eGFP-XRhod1\59022m.txt</Val>
 </Path>
 <Path>
 <Name>Extra em filter 1</Name>
@@ -301,19 +301,19 @@
 </Path>
 <Path>
 <Name>Fluorophore absorption 1</Name>
-<Val>D:\Programming\Xijk\executable\Examples\MH-single-eGFP-ICPBC\eGFP_abs.txt</Val>
+<Val>D:\Programming\Xijk\Examples\MH-double-eGFP-XRhod1\eGFP_abs.txt</Val>
 </Path>
 <Path>
 <Name>Fluorophore emission 1</Name>
-<Val>D:\Programming\Xijk\executable\Examples\MH-single-eGFP-ICPBC\eGFP_em.txt</Val>
+<Val>D:\Programming\Xijk\Examples\MH-double-eGFP-XRhod1\eGFP_em.txt</Val>
 </Path>
 <Path>
 <Name>Fluorophore absorption 2</Name>
-<Val>D:\Programming\Xijk\executable\Examples\MH-single-eGFP-ICPBC\ICPBC_abs.txt</Val>
+<Val>D:\Programming\Xijk\Examples\MH-double-eGFP-XRhod1\xrhod-1_abs.txt</Val>
 </Path>
 <Path>
 <Name>Fluorophore emission 2</Name>
-<Val>D:\Programming\Xijk\executable\Examples\MH-single-eGFP-ICPBC\ICPBC_em.txt</Val>
+<Val>D:\Programming\Xijk\Examples\MH-double-eGFP-XRhod1\xrhod-1_em.txt</Val>
 </Path>
 <Path>
 <Name>Detector</Name>

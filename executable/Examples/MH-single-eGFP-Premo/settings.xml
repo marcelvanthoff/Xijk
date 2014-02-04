@@ -1,6 +1,6 @@
 <?xml version='1.0' standalone='yes' ?>
 <LVData xmlns="http://www.ni.com/LVData">
-<Version>10.0.1</Version>
+<Version>10.0.1f4</Version>
 <Cluster>
 <Name>save cluster</Name>
 <NumElts>5</NumElts>
@@ -265,27 +265,27 @@
 <NumElts>14</NumElts>
 <Path>
 <Name>Excitation filter 1</Name>
-<Val>D:\Programming\Xijk\Examples\MH-eGFP-Premo\ZET488_10x.txt</Val>
+<Val>D:\Programming\Xijk\executable\Examples\MH-single-eGFP-Premo\ZET488_10x.txt</Val>
 </Path>
 <Path>
 <Name>Dichroic filter 1</Name>
-<Val>D:\Programming\Xijk\Examples\MH-eGFP-Premo\ZT488rdc.txt</Val>
+<Val>D:\Programming\Xijk\executable\Examples\MH-single-eGFP-Premo\ZT488rdc.txt</Val>
 </Path>
 <Path>
 <Name>Emission filter 1</Name>
-<Val>D:\Programming\Xijk\Examples\MH-eGFP-Premo\ET525_50m.txt</Val>
+<Val>D:\Programming\Xijk\executable\Examples\MH-single-eGFP-Premo\ET525_50m.txt</Val>
 </Path>
 <Path>
 <Name>Excitation filter 2</Name>
-<Val>D:\Programming\Xijk\Examples\MH-eGFP-Premo\ZET488_10x.txt</Val>
+<Val>D:\Programming\Xijk\executable\Examples\MH-single-eGFP-Premo\ZET532_10x.txt</Val>
 </Path>
 <Path>
 <Name>Dichroic filter 2</Name>
-<Val>D:\Programming\Xijk\Examples\MH-eGFP-Premo\ZT488rdc.txt</Val>
+<Val>D:\Programming\Xijk\executable\Examples\MH-single-eGFP-Premo\ZT532rdc.txt</Val>
 </Path>
 <Path>
 <Name>Emission filter 2</Name>
-<Val>D:\Programming\Xijk\Examples\MH-eGFP-Premo\HC550_49.txt</Val>
+<Val>D:\Programming\Xijk\executable\Examples\MH-single-eGFP-Premo\ET590_50m.txt</Val>
 </Path>
 <Path>
 <Name>Extra em filter 1</Name>
@@ -301,19 +301,19 @@
 </Path>
 <Path>
 <Name>Fluorophore absorption 1</Name>
-<Val>D:\Programming\Xijk\Examples\MH-eGFP-Premo\eGFP_abs.txt</Val>
+<Val>D:\Programming\Xijk\executable\Examples\MH-single-eGFP-Premo\eGFP_abs.txt</Val>
 </Path>
 <Path>
 <Name>Fluorophore emission 1</Name>
-<Val>D:\Programming\Xijk\Examples\MH-eGFP-Premo\eGFP_em.txt</Val>
+<Val>D:\Programming\Xijk\executable\Examples\MH-single-eGFP-Premo\eGFP_em.txt</Val>
 </Path>
 <Path>
 <Name>Fluorophore absorption 2</Name>
-<Val>D:\Programming\Xijk\Examples\MH-eGFP-Premo\premo_abs.txt</Val>
+<Val>D:\Programming\Xijk\executable\Examples\MH-single-eGFP-Premo\premo_abs.txt</Val>
 </Path>
 <Path>
 <Name>Fluorophore emission 2</Name>
-<Val>D:\Programming\Xijk\Examples\MH-eGFP-Premo\premo_em.txt</Val>
+<Val>D:\Programming\Xijk\executable\Examples\MH-single-eGFP-Premo\premo_em.txt</Val>
 </Path>
 <Path>
 <Name>Detector</Name>
