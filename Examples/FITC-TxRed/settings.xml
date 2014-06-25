@@ -1,22 +1,22 @@
 <?xml version='1.0' standalone='yes' ?>
 <LVData xmlns="http://www.ni.com/LVData">
-<Version>10.0</Version>
+<Version>10.0.1</Version>
 <Cluster>
 <Name>save cluster</Name>
-<NumElts>5</NumElts> 
+<NumElts>5</NumElts>
 <String>
-<Name>Project name</Name> 
-<Val>FITC-TxRed</Val> 
+<Name>Project name</Name>
+<Val>FITC-TxRed</Val>
 </String>
 <Cluster>
-<Name></Name>
+<Name>configuration</Name>
 <NumElts>2</NumElts>
 <Cluster>
 <Name>axes in</Name>
 <NumElts>5</NumElts>
 <U16>
 <Name>min x-axis excitation</Name>
-<Val>400</Val>
+<Val>450</Val>
 </U16>
 <U16>
 <Name>max x-axis excitation</Name>
@@ -192,7 +192,7 @@
 <NumElts>4</NumElts>
 <Boolean>
 <Name>Unknown detector</Name>
-<Val>1</Val>
+<Val>0</Val>
 </Boolean>
 <Boolean>
 <Name>Dual band filters</Name>
@@ -212,7 +212,7 @@
 <NumElts>7</NumElts>
 <U16>
 <Name>Light source</Name>
-<Val>2</Val>
+<Val>0</Val>
 </U16>
 <U16>
 <Name>Number of fluorophores</Name>
@@ -224,7 +224,7 @@
 </U16>
 <SGL>
 <Name>Broadness of laser (nm) 1</Name>
-<Val>1</Val>
+<Val>1.00000</Val>
 </SGL>
 <U16>
 <Name>Wavelength of laser (nm) 2</Name>
@@ -232,7 +232,7 @@
 </U16>
 <SGL>
 <Name>Broadness of laser (nm) 2</Name>
-<Val>1</Val>
+<Val>1.00000</Val>
 </SGL>
 <U16>
 <Name>Template</Name>
@@ -244,19 +244,19 @@
 <NumElts>4</NumElts>
 <SGL>
 <Name>Molar extinction 1</Name>
-<Val>55999.99999999999990</Val>
+<Val>85000.00000</Val>
 </SGL>
 <SGL>
 <Name>Molar extinction 2</Name>
-<Val>27000.00000000000000</Val>
+<Val>85000.00000</Val>
 </SGL>
 <SGL>
 <Name>Quantum efficiency 1</Name>
-<Val>0.60000000000000</Val>
+<Val>0.50000</Val>
 </SGL>
 <SGL>
 <Name>Quantum efficiency 2</Name>
-<Val>0.20000000000000</Val>
+<Val>0.80000</Val>
 </SGL>
 </Cluster>
 </Cluster>
@@ -265,27 +265,27 @@
 <NumElts>14</NumElts>
 <Path>
 <Name>Excitation filter 1</Name>
-<Val>H:\temp programming\+ Labview\01 Xijk\server\revised version\Examples\FITC-TxRed\D480_30x_chroma.txt</Val>
+<Val>D:\Programming\Xijk\Examples\FITC-TxRed\D480_30x_chroma.txt</Val>
 </Path>
 <Path>
 <Name>Dichroic filter 1</Name>
-<Val>H:\temp programming\+ Labview\01 Xijk\server\revised version\Examples\FITC-TxRed\500DCLP.txt</Val>
+<Val>D:\Programming\Xijk\Examples\FITC-TxRed\505dcxr_chroma.txt</Val>
 </Path>
 <Path>
 <Name>Emission filter 1</Name>
-<Val>H:\temp programming\+ Labview\01 Xijk\server\revised version\Examples\FITC-TxRed\HQ520_40m.txt</Val>
+<Val>D:\Programming\Xijk\Examples\FITC-TxRed\ET535_50m_2p.txt</Val>
 </Path>
 <Path>
 <Name>Excitation filter 2</Name>
-<Val>H:\temp programming\+ Labview\01 Xijk\server\revised version\Examples\FITC-TxRed\D560_40x_chroma.txt</Val>
+<Val>D:\Programming\Xijk\Examples\FITC-TxRed\D560_40x_chroma.txt</Val>
 </Path>
 <Path>
 <Name>Dichroic filter 2</Name>
-<Val>H:\temp programming\+ Labview\01 Xijk\server\revised version\Examples\FITC-TxRed\E600LP.txt</Val>
+<Val>D:\Programming\Xijk\Examples\FITC-TxRed\600DCLP.txt</Val>
 </Path>
 <Path>
 <Name>Emission filter 2</Name>
-<Val>H:\temp programming\+ Labview\01 Xijk\server\revised version\Examples\FITC-TxRed\HQ620_40m_2p.txt</Val>
+<Val>D:\Programming\Xijk\Examples\FITC-TxRed\HQ620_40m_2p.txt</Val>
 </Path>
 <Path>
 <Name>Extra em filter 1</Name>
@@ -297,27 +297,27 @@
 </Path>
 <Path>
 <Name>Light source file</Name>
-<Val></Val>
+<Val>D:\Programming\Xijk\Examples\FITC-TxRed\XBO_75.txt</Val>
 </Path>
 <Path>
 <Name>Fluorophore absorption 1</Name>
-<Val>H:\temp programming\+ Labview\01 Xijk\server\revised version\Examples\FITC-TxRed\FITC_ex.txt</Val>
+<Val>D:\Programming\Xijk\Examples\FITC-TxRed\FITC_ex.txt</Val>
 </Path>
 <Path>
 <Name>Fluorophore emission 1</Name>
-<Val>H:\temp programming\+ Labview\01 Xijk\server\revised version\Examples\FITC-TxRed\FITC_em.txt</Val>
+<Val>D:\Programming\Xijk\Examples\FITC-TxRed\FITC_em.txt</Val>
 </Path>
 <Path>
 <Name>Fluorophore absorption 2</Name>
-<Val>H:\temp programming\+ Labview\01 Xijk\server\revised version\Examples\FITC-TxRed\TxRed_ex.txt</Val>
+<Val>D:\Programming\Xijk\Examples\FITC-TxRed\TxRed_ex.txt</Val>
 </Path>
 <Path>
 <Name>Fluorophore emission 2</Name>
-<Val>H:\temp programming\+ Labview\01 Xijk\server\revised version\Examples\FITC-TxRed\TxRed_em.txt</Val>
+<Val>D:\Programming\Xijk\Examples\FITC-TxRed\TxRed_em.txt</Val>
 </Path>
 <Path>
 <Name>Detector</Name>
-<Val></Val>
+<Val>D:\Programming\Xijk\Examples\FITC-TxRed\Cascade128.txt</Val>
 </Path>
 </Cluster>
 </Cluster>
